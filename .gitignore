@@ -1,0 +1,10 @@
+## Dependencies
+node_modules/
+
+## Firebase
+server/config/serviceAccountKey.json
+
+## Environment files
+.env
+.env.*
+!.env.example
